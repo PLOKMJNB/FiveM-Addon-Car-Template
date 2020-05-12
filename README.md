@@ -11,5 +11,10 @@
 ____
 
 ## Thats essentailly all you need to do
-just add the folder to you servers resource folder, change the name to something recognizable/ordered and add **start addon_car** to the server.cfg
+To finsh up
+1. change *addon_car_template* to something recognizable/ordered like the car name
+> Example nissan_gtr
+2. Move the folder into wherever your servers resource folder is
+3. Setup the config.cfg
+> Add **start nisan_gtr** to the server.cfg
 
