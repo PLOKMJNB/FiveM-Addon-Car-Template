@@ -1,4 +1,4 @@
-# FiveM Car Template
+# FiveM Add-on Car Template
 
 1. Clone this repository
 2. Delete the two *.gitignore* files in the data and stream folders, they are just there so that you can see the folders.
