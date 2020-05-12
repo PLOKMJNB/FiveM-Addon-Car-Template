@@ -15,6 +15,6 @@ To finsh up
 1. change *addon_car_template* to something recognizable/ordered like the car name
 > Example nissan_gtr
 2. Move the folder into wherever your servers resource folder is
-3. Setup the config.cfg
-> Add **start nisan_gtr** to the server.cfg
+3. Setup the config.cfg, *this is case sensitive so be carefull*
+> Add **start nissan_gtr** to the server.cfg
 
