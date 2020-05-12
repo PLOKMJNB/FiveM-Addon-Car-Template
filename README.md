@@ -18,3 +18,6 @@ To finish up
 3. Setup the config.cfg, *this is case sensitive so be carefull*
 > Add **start nissan_gtr** to the server.cfg
 
+____
+if you need help, which would be weird find me on discord **PLOKMJNB#8692**
+
