@@ -6,5 +6,10 @@
         
     Commonly you can disregard the **content.xl** and **setup2.xml**. All the important data files you will need will be in data folder, sometimes there may be other files hidden father into the data folder, retreive everthing and place them inside the data folder in the add-on folder. If you find anything not on the list in the __resource.lua delete it as its not required. 
 
-    Now moving to the Actual vehicle model, everything such as the model and if applicable mods such as bodykits etc. will be located in the */x64/vehicles.rpf/* in here it may branch off, get everything in here and place them in the stream folder in the add-on folder. You dont have to add anything to the __resource.lua
+    Now moving to the Actual vehicle model, everything such as the model and if applicable mods such as bodykits etc. will be located in the */x64/vehicles.rpf/* in here it may branch off, get everything in here and place them in the stream folder in the add-on folder. You dont have to add anything to the __resource.lua.
+
+____
+
+## Thats essentailly all you need to do
+just add the folder to you servers resource folder, change the name to something recognizable/ordered and add **start addon_car** to the server.cfg
 
