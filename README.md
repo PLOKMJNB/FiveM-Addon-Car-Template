@@ -1,4 +1,4 @@
-# FiveM-Car-Template
+# FiveM Car Template
 
 1. Clone this repository
 2. Delete the two *.gitignore* files in the data and stream folders, they are just there so that you can see the folders.
@@ -19,5 +19,5 @@ To finish up
 > Add **start nissan_gtr** to the server.cfg
 
 ____
-if you need help, which would be weird find me on discord **PLOKMJNB#8692**
+If you need help, which would be weird find me on discord **PLOKMJNB#8692**
 
