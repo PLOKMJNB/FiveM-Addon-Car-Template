@@ -6,7 +6,7 @@ description "Car name"
 files {
     'data/handling.meta',
     'data/vehiclelayouts.meta',
-    'data/vehicles.meta',
+    'data/vehicles.meta', 
     'data/carcols.meta',
     'data/carvariations.meta',
 --    'data/contentunlocks.meta',
