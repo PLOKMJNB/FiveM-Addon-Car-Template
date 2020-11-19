@@ -19,19 +19,4 @@ To finish up
 > Add **start nissan_gtr** to the server.cfg
 
 ____
-If you need help, which would be weird find me on discord **PLOKMJNB#8692**. Or better join my discord
-<script type="text/javascript" src="http://discord.deliriousdrunkards.com/discord.min.js"></script>
-<script type="text/javascript">
-    discordWidget.init({
-        serverId: '731309071696920717',
-        title: 'Khan Design Discord',
-        join: true,
-        alphabetical: false,
-        theme: 'dark',
-        hideChannels: ['Channel Name 1', 'Channel Name 2'],
-        showAllUsers: true,
-        allUsersDefaultState: true
-    });
-    discordWidget.render();
-</script>
-<div class="discord-widget"></div>
+If you need help, which would be weird find me on discord **PLOKMJNB#8692**. Or better join my [discord](https://discord.gg/vZmRp7EqSS)
