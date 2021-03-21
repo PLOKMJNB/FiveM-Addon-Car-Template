@@ -3,7 +3,7 @@
 1. Clone this repository
 2. Delete the two *.gitignore* files in the data and stream folders, they are just there so that you can see the folders.
 3. Obtain all the necessary and included vehicle files from the dlc.rpf
-4. Delete any stray entries from the [__resource.lua](addon_car_template/__resource.lua) that aren't or weren't included in the original dlc.rpf
+4. Delete any stray entries from the [fxmanifest.lua](addon_car_template/fxmanifest.lua) that aren't or weren't included in the original dlc.rpf
         
     Commonly you can disregard the **content.xl** and **setup2.xml**. All the important data files you will need will be in the data folder, sometimes there may be other files hidden father into the data folder, retrieve everything and place them inside the data folder in the add-on folder. If you find anything not on the list in the __resource.lua delete it as it's not required. 
 
