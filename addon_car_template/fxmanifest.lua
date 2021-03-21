@@ -1,7 +1,8 @@
-  
-resource_manifest_version '77731fab-63ca-442c-a67b-abc70f28dfa5'
+fx_version 'cerulean'
 
-description "Car name"
+game { 'gta5' }
+
+description 'Created by PLOK'
 
 files {
     'data/handling.meta',
@@ -9,7 +10,7 @@ files {
     'data/vehicles.meta', 
     'data/carcols.meta',
     'data/carvariations.meta',
---    'data/contentunlocks.meta',
+--  'data/contentunlocks.meta'
 }
 
 data_file 'HANDLING_FILE' 'data/handling.meta'
@@ -18,7 +19,7 @@ data_file 'VEHICLE_METADATA_FILE' 'data/vehicles.meta'
 data_file 'CARCOLS_FILE' 'data/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/carvariations.meta'
 -- data_file 'VEHICLE_SHOP_DLC_FILE' 'data/'
---data_file 'CONTENT_UNLOCKING_META_FILE' 'data/contentunlocks.meta'
+-- data_file 'CONTENT_UNLOCKING_META_FILE' 'data/contentunlocks.meta'
 
 client_script {
     'data/vehicle_names.lua' 
