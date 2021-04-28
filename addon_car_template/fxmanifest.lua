@@ -16,6 +16,4 @@ data_file 'VEHICLE_VARIATION_FILE' 'data/**/carvariations.meta'
 -- data_file 'DLCTEXT_FILE' 'data/**/dlctext.meta'
 -- data_file 'CARCONTENTUNLOCKS_FILE' 'data/**/carcontentunlocks.meta'
 
-client_script {
-  'vehicle_names.lua'
-}
+client_script 'vehicle_names.lua'
